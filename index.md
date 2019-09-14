@@ -4,8 +4,7 @@ description: Time Series Decomposition Example
 ---
 Megan Hill 
 
-View Report
-[Picture](/photos/analysis-charts-close-up-1559048.jpg)
+[View Report](/photos/analysis-charts-close-up-1559048.jpg)
 
 Content created for Competing Through Business Analytics course: 
 
