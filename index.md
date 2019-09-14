@@ -10,8 +10,8 @@ View Report
 Content created for Competing Through Business Analytics course: 
 
 
--[Time Series Decomposition](/timeseries/index.md)
+- [Time Series Decomposition](/timeseries/index.md)
 
-Check out my other work! 
+Check out my other work: 
 
-[Fall 2019 Repository] (https://github.com/meghill/Fall-2019)
+- [Fall 2019 Repository](https://github.com/meghill/Fall-2019)
