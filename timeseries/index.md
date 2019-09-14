@@ -11,4 +11,4 @@ Data Source: U.S. Census Bureau
 - [Time Series Decomposition (ipynb)](TSDAssignment.ipynb)
 
 Return to Home Page: 
-- [Home Page](https://github.com/meghill)
+- [Home Page](https://github.com/meghill/)
