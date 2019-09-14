@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Megan Hill 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
