@@ -1,5 +1,5 @@
 ---
-title: TimeSeries Decomposition 
+title: Time Series Decomposition 
 description: Course Content
 ---
 Time Series Decomposition on U.S. Public and Private Spending on Construction 2002 - 2014
