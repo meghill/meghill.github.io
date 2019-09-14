@@ -6,4 +6,4 @@ description: Time Series Decomposition Example
 Content created for Competing Through Business Analytics course: 
 
 
--[Time_Series_Decomposition](/timeseries/index.md)
+-[Time Series Decomposition](/timeseries/index.md)
